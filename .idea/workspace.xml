@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bad3c7c5-ca00-4fef-bbf6-9bcaf27c10cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/maven.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app-1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app-1/target/my-app-1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/my-app-1/target/my-app-1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app-1/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app-1/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app-1/target/surefire-reports/com.mycompany.app.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my-app-1/target/surefire-reports/com.mycompany.app.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/target/surefire-reports/com.mycompany.app.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/target/surefire-reports/com.mycompany.app.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +18,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../Tools/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="mavenHome" value="C:\Users\Kevin KOUOMEU\Desktop\Arsene\Tools\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -50,19 +40,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605431826486</updated>
-      <workItem from="1605431827621" duration="5900000" />
+      <workItem from="1605431827621" duration="6605000" />
+      <workItem from="1605550191948" duration="1199000" />
     </task>
     <servers />
   </component>
